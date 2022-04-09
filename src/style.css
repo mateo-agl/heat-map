@@ -1,0 +1,16 @@
+* {
+  font-family: 'Fira Code', monospace;
+}
+#container {
+  margin-top: 40px;
+  text-align: center;
+}
+#tooltip {
+  position: absolute;
+  background-color: #03071E;
+  color: #ECEFFD;
+  padding: 15px;
+  width: 180px;
+  opacity: 0;
+  pointer-events: none;
+}
